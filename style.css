@@ -48,7 +48,7 @@ header > p{
     padding-right: 15px;
     padding-left: 15px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.226);
-    margin-bottom: 25px;
+    padding-bottom: 25px;
 
 }
 nav{
@@ -94,7 +94,7 @@ div.video{
     padding: 20px;
     padding-bottom: 57%;
     position: relative;
-    position: ;
+    position: absolute;
 }
 div.video > iframe{
     position: absolute;
